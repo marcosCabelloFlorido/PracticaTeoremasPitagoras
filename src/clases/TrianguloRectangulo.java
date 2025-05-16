@@ -42,10 +42,8 @@ public class TrianguloRectangulo {
 		else {
 			this.b = b;
 		}
-		
 	}
 
-	
 	/**
      * Calcula el area del triangulo rectangulo
      * @return el area del triangulo rectangulo
