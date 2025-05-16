@@ -120,7 +120,7 @@ public class TrianguloRectangulo {
      */
 	@Override
 	public String toString() {
-		return "TrianguloRectangulo [a=" + a + ", b=" + b + ", c=" + c + "]";
+		return "TrianguloRectangulo [Cateto1=" + a + ", Cateto2=" + b + ", Hipotenusa=" + this.hipotenusa() + "]";
 	}
 	
 }
